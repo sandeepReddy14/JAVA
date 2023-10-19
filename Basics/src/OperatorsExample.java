@@ -23,7 +23,7 @@ Relational operators are comparison and equality operators.
 ==, != are equality operators.
 
 5.Bitwise and Logical Operators:-
-The logical operators evalute an expression to true or false.
+The logical operators evaluate an expression to true or false.
 &&, & are AND operator.
 ||, | are OR operator.
 The logical &&, || operators don't check the second condition if the first condition is false.
