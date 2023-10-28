@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a211e55-a299-4496-a338-2bf617383b6e" name="Changes" comment="Jump Control Example in Java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/Strings.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/StringBuilderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/StringConversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings/src/StringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Synchronization/Synchronization.iml" afterDir="false" />
+    <list default="true" id="2a211e55-a299-4496-a338-2bf617383b6e" name="Changes" comment="Synchronization in Java">
+      <change afterPath="$PROJECT_DIR$/OOPS/OOPS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/src/ConstructorsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697046678931</updated>
       <workItem from="1697046680122" duration="22373000" />
-      <workItem from="1697206669080" duration="17723000" />
+      <workItem from="1697206669080" duration="25944000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of threads from Runnable &amp; Thread class">
       <created>1697047102539</created>
@@ -257,7 +250,56 @@
       <option name="project" value="LOCAL" />
       <updated>1697990360157</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="String Example in Java">
+      <created>1697991976617</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1697991976617</updated>
+    </task>
+    <task id="LOCAL-00028" summary="String Methods Example in Java">
+      <created>1697991989778</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1697991989778</updated>
+    </task>
+    <task id="LOCAL-00029" summary="String Conversion Example in Java">
+      <created>1697992009600</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1697992009600</updated>
+    </task>
+    <task id="LOCAL-00030" summary="String Builder Example in Java">
+      <created>1697992043382</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1697992043383</updated>
+    </task>
+    <task id="LOCAL-00031" summary="String Buffer Example in Java">
+      <created>1697992058863</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1697992058863</updated>
+    </task>
+    <task id="LOCAL-00032" summary="String in Java">
+      <created>1697992124283</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1697992124283</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Synchronization in Java">
+      <created>1697992147704</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1697992147704</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,12 +317,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creation of threads from Runnable &amp; Thread class" />
-    <MESSAGE value="Example of sleep method" />
-    <MESSAGE value="Example of join method" />
-    <MESSAGE value="Example of naming thread." />
-    <MESSAGE value="Example of priority in thread." />
-    <MESSAGE value="Example of start method in thread." />
     <MESSAGE value="Example of Daemon thread working." />
     <MESSAGE value="Example of working with Thread pool." />
     <MESSAGE value="Example of working with Shutdown hooks." />
@@ -299,6 +335,13 @@
     <MESSAGE value="Switch Control Example in Java" />
     <MESSAGE value="Loop Control Example in Java" />
     <MESSAGE value="Jump Control Example in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jump Control Example in Java" />
+    <MESSAGE value="String Example in Java" />
+    <MESSAGE value="String Methods Example in Java" />
+    <MESSAGE value="String Conversion Example in Java" />
+    <MESSAGE value="String Builder Example in Java" />
+    <MESSAGE value="String Buffer Example in Java" />
+    <MESSAGE value="String in Java" />
+    <MESSAGE value="Synchronization in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Synchronization in Java" />
   </component>
 </project>
