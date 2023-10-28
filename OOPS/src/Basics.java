@@ -35,6 +35,21 @@ A dog is an animal. dog inherits animal properties.
 Polymorphism is when one task performed in different ways. Method overloading
 and method overriding are used to achieve polymorphism.
 
+
+Cohesion represents the degree to which a part of a code base forms a logically
+single, atomic unit.
+Coupling, on the other hand, represents the degree to which a single unit is
+dependent on others
+A good software should have low coupling and high cohesion.
+
+Association represents the relation between objects
+1.one to one
+2.one to many
+3.many to one
+Many-to-one means that the objects know each other
+Example:- A mother and her child.
+
+
 A Class in java contain:-
 1.Members/Fields
 2.Methods
@@ -89,4 +104,3 @@ public class Basics {
         new Basics("sandeep", 22).printAge();
     }
 }
-
