@@ -56,6 +56,7 @@ A Class in java contain:-
 3.Constructors
 4.Blocks:-
 code is run everytime an object is created. These codes are copied and pasted at start of constructor.
+All the instance initializer code is pasted in constructor after first super() statement .
 5.Nested class & Interface
 
 To run main function of a class the name of class anf file should be same.
