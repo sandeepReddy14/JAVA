@@ -54,7 +54,8 @@ A Class in java contain:-
 1.Members/Fields
 2.Methods
 3.Constructors
-4.Blocks:- code is run everytime an object is created.Runs before constructor is invoked.
+4.Blocks:-
+code is run everytime an object is created. These codes are copied and pasted at start of constructor.
 5.Nested class & Interface
 
 To run main function of a class the name of class anf file should be same.
@@ -90,7 +91,7 @@ public class Basics {
         this.age = age;
     }
 
-    /* Blocks */
+    /* Initializer Blocks */
     {
         System.out.println("Basics object is created.");
     }
