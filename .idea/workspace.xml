@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a211e55-a299-4496-a338-2bf617383b6e" name="Changes" comment="Synchronization in Java">
-      <change afterPath="$PROJECT_DIR$/OOPS/OOPS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/src/ConstructorsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/src/Main.java" afterDir="false" />
+    <list default="true" id="2a211e55-a299-4496-a338-2bf617383b6e" name="Changes" comment="Encapsulation Example in Java">
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/ExceptionHandlingExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/ConstructorsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPS/ConstructorsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPS/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OOPS/src" />
       <recent name="$PROJECT_DIR$/Strings/src" />
       <recent name="$PROJECT_DIR$/Multi_Threading/src" />
     </key>
@@ -66,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1697046678931</updated>
       <workItem from="1697046680122" duration="22373000" />
-      <workItem from="1697206669080" duration="25944000" />
+      <workItem from="1697206669080" duration="39588000" />
+      <workItem from="1698659106246" duration="14719000" />
     </task>
     <task id="LOCAL-00001" summary="Creation of threads from Runnable &amp; Thread class">
       <created>1697047102539</created>
@@ -299,7 +304,91 @@
       <option name="project" value="LOCAL" />
       <updated>1697992147704</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Constructors Example in Java">
+      <created>1698506325539</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1698506325539</updated>
+    </task>
+    <task id="LOCAL-00035" summary="OOPS Basics Example in Java">
+      <created>1698516783159</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1698516783159</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Aggregation Example in Java">
+      <created>1698517429164</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1698517429164</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Composition Example in Java">
+      <created>1698519399682</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1698519399682</updated>
+    </task>
+    <task id="LOCAL-00038" summary="OOPS Basic Example in Java">
+      <created>1698519576975</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1698519576975</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Abstract Class Example in Java">
+      <created>1698565881737</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1698565881737</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Interface Example in Java">
+      <created>1698653883056</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1698653883056</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Inheritance Example in Java">
+      <created>1698667500519</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1698667500519</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Basics Example in Java">
+      <created>1698673061247</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1698673061247</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Basics Example in Java">
+      <created>1698673270121</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1698673270121</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Polymorphism Example in Java">
+      <created>1698680346131</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1698680346131</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Encapsulation Example in Java">
+      <created>1698782417449</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1698782417449</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,17 +406,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Example of Daemon thread working." />
-    <MESSAGE value="Example of working with Thread pool." />
-    <MESSAGE value="Example of working with Shutdown hooks." />
-    <MESSAGE value="Example of working with ThreadGroup" />
-    <MESSAGE value="Example of working with Garbage collection" />
-    <MESSAGE value="Example of working with Runtime class" />
-    <MESSAGE value="Example of working with Synchronization Method Example" />
-    <MESSAGE value="Example of working with Synchronization Block Example" />
-    <MESSAGE value="Example of working with Static Synchronization" />
-    <MESSAGE value="Basic Info of Java is Updated." />
-    <MESSAGE value="Variables in Java with examples." />
     <MESSAGE value="DataTypes in Java with examples." />
     <MESSAGE value="OperatorsExample in Java with examples." />
     <MESSAGE value="OperatorsExample in Java" />
@@ -342,6 +420,17 @@
     <MESSAGE value="String Buffer Example in Java" />
     <MESSAGE value="String in Java" />
     <MESSAGE value="Synchronization in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Synchronization in Java" />
+    <MESSAGE value="Constructors Example in Java" />
+    <MESSAGE value="OOPS Basics Example in Java" />
+    <MESSAGE value="Aggregation Example in Java" />
+    <MESSAGE value="Composition Example in Java" />
+    <MESSAGE value="OOPS Basic Example in Java" />
+    <MESSAGE value="Abstract Class Example in Java" />
+    <MESSAGE value="Interface Example in Java" />
+    <MESSAGE value="Inheritance Example in Java" />
+    <MESSAGE value="Basics Example in Java" />
+    <MESSAGE value="Polymorphism Example in Java" />
+    <MESSAGE value="Encapsulation Example in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation Example in Java" />
   </component>
 </project>
